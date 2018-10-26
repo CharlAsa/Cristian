@@ -1,0 +1,63 @@
+Mensagem:Olá meu nome é: Charles-PC
+/127.0.0.1:60000
+47991
+Mensagem:Olá meu nome é: Charles-PC
+Servidor:/127.0.0.1:60000
+Porta conectada: 48060
+Conectado a: /127.0.0.1
+Mensagem:Olá meu nome é: Charles-PC
+Servidor:/127.0.0.1:60000
+Porta conectada: 48121
+Conectado a: /127.0.0.1:48121
+Mensagem:Olá meu nome é: Charles-PC
+Servidor:/127.0.0.1:60000
+Cliente: /127.0.0.1:48122
+
+Mensagem:Olá meu nome é: Charles-PC
+Servidor:/127.0.0.1:60000
+Cliente: /127.0.0.1:48123
+
+Mensagem:Olá meu nome é: Charles-PC
+Servidor:/127.0.0.1:60000
+Cliente: /127.0.0.1:48961
+
+Mensagem:Olá meu nome é: Charles-PC
+Servidor:/127.0.0.1:50000
+Cliente: /127.0.0.1:49061
+
+Mensagem:Olá meu nome é: Charles-PC
+Servidor:/127.0.0.1:40000
+Cliente: /127.0.0.1:49063
+
+Mensagem:Olá meu nome é: Charles-PC
+Servidor:/127.0.0.1:40000
+Cliente: /127.0.0.1:49064
+
+Mensagem:Olá meu nome é: Charles-PC
+Servidor:/127.0.0.1:40000
+Cliente: /127.0.0.1:49065
+
+Mensagem:Olá meu nome é: Charles-PC
+Servidor:/127.0.0.1:40000
+Cliente: /127.0.0.1:49066
+
+Mensagem:Olá meu nome é: Charles-PC
+Servidor:/127.0.0.1:40000
+Cliente: /127.0.0.1:49067
+
+Mensagem:Olá meu nome é: Charles-PC
+Servidor:/127.0.0.1:30000
+Cliente: /127.0.0.1:49069
+
+Mensagem:Olá meu nome é: Charles-PC
+Servidor:/127.0.0.1:30000
+Cliente: /127.0.0.1:49070
+
+Mensagem:Olá meu nome é: Charles-PC
+Servidor:/127.0.0.1:30000
+Cliente: /127.0.0.1:49071
+
+Mensagem:Olá meu nome é: Charles-PC
+Servidor:/127.0.0.1:500
+Cliente: /127.0.0.1:49073
+
